@@ -1,6 +1,6 @@
 
 '''
-Nathanael Sumpter
+Nathanael
 
 SDEV220
 
